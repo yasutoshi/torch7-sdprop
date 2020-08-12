@@ -1,8 +1,9 @@
 Torch7 implementation of SDProp
 ===============================================
 
-This is a Torch7 implementation of SDProp described in the paper [Adaptive Learning Rate via Covariance Matrix Based Preconditioning for Deep Neural Networks](https://www.ijcai.org/proceedings/2017/0267.pdf)(Y. Ida et al., International Joint Conference on Artificial Intelligence(IJCAI), 2017).
-This paper presents SDProp: an effective training algorithm for deep neural networks.
+This is a Torch7 implementation of SDProp described in the paper of [Adaptive Learning Rate via Covariance Matrix Based Preconditioning for Deep Neural Networks](https://www.ijcai.org/proceedings/2017/0267.pdf)(Y. Ida et al., IJCAI, 2017).
+
+SDProp is an adaptive learning rate algorithm that effectively trains deep neural networks.
 
 ## Usage
 
